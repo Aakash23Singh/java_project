@@ -1,6 +1,6 @@
 # Java Projects Collections
 
-This repository contains a wide variety of Java projects and code samples, ranging from beginner to advanced level. Projects cover different topics, levels of complexity, and real-world use cases. You’ll find:
+This repository contains a wide variety of Java projects and code samples, ranging from beginner to advanced level. Projects cover different topics, levels of complexity, and real-world use cases. You’ll find:cdwvdw
 
 - Simple programs and utilities
 - Data structures and Algorithms 
